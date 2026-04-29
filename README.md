@@ -22,4 +22,4 @@ Main tools used:
 
 - pyswip
 
-Lab 2 may require external dataset files such as `movies_metadata.csv` and `ratings.csv`.
+Lab 2 may require external dataset files such as `movies_metadata.csv` and `ratings.csv` (they are also provided for the best recreation or improvements possible :D ).
